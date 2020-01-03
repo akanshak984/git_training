@@ -1,0 +1,9 @@
+Enter i to insert or edit
+ESC -> :wq to save and exit
+ESC -> :q! to save without saving
+vim filename  creates file
+vi filename opens the existing file
+x to delete and u to undo delete text
+
+
+
